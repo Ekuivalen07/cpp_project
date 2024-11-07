@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1718354697 source:d:\tugas c++ vallen\project uas\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<limits>
+	<ctime>
+
